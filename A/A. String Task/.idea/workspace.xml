@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f21e872c-063d-411b-82df-0705760372bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../10110 - Light, more light/10110 - Light, more light.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10110 - Light, more light/10110 - Light, more light.depend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10110 - Light, more light/10110 - Light, more light.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10110 - Light, more light/bin/Debug/10110 - Light, more light" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10110 - Light, more light/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10110 - Light, more light/obj/Debug/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Anton and Letters/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Anton and Letters/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Anton and Letters/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Anton and Letters/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Anton and Letters/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Anton and Letters/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Anton and Letters/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Anton and Letters/A. Anton and Letters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Anton and Letters/out/production/A. Anton and Letters/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Anton and Letters/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Bit++/A. Bit++.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Bit++/A. Bit++.depend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Bit++/A. Bit++.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Bit++/bin/Debug/A" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Bit++/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Bit++/obj/Debug/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Carrot Cakes/A. Carrot Cakes.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Carrot Cakes/A. Carrot Cakes.depend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Carrot Cakes/A. Carrot Cakes.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Carrot Cakes/bin/Debug/A" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Carrot Cakes/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Carrot Cakes/obj/Debug/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Colorful Stones (Simplified Edition)/A. Colorful Stones (Simplified Edition).cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Colorful Stones (Simplified Edition)/A. Colorful Stones (Simplified Edition).depend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Colorful Stones (Simplified Edition)/A. Colorful Stones (Simplified Edition).layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Colorful Stones (Simplified Edition)/bin/Debug/A" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Colorful Stones (Simplified Edition)/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Colorful Stones (Simplified Edition)/obj/Debug/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Die Roll/A. Die Roll.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Die Roll/A. Die Roll.depend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Die Roll/A. Die Roll.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Die Roll/bin/Debug/A" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Die Roll/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Die Roll/obj/Debug/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Even Odds/A. Even Odds.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Even Odds/A. Even Odds.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Even Odds/bin/Debug/A" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Even Odds/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Even Odds/obj/Debug/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Free Ice Cream/A. Free Ice Cream.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Free Ice Cream/A. Free Ice Cream.depend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Free Ice Cream/bin/Debug/A" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Free Ice Cream/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Free Ice Cream/obj/Debug/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Helpful Maths/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Helpful Maths/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Helpful Maths/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Helpful Maths/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Helpful Maths/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Helpful Maths/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Helpful Maths/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Helpful Maths/A. Helpful Maths.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Helpful Maths/out/production/A. Helpful Maths/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Helpful Maths/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Is your horseshoe on the other hoof?/A. Is your horseshoe on the other hoof?.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Is your horseshoe on the other hoof?/A. Is your horseshoe on the other hoof?.depend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Is your horseshoe on the other hoof?/bin/Debug/A" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Is your horseshoe on the other hoof?/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Is your horseshoe on the other hoof?/obj/Debug/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Juicer/A. Juicer.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Juicer/A. Juicer.depend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Juicer/A. Juicer.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Juicer/bin/Debug/A" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Juicer/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Juicer/obj/Debug/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Keyboard/A. Keyboard.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Keyboard/A. Keyboard.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Keyboard/bin/Debug/A" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Keyboard/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Keyboard/obj/Debug/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Lineland Mail/A. Lineland Mail.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Lineland Mail/A. Lineland Mail.depend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Lineland Mail/A. Lineland Mail.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Lineland Mail/bin/Debug/A" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Lineland Mail/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Lineland Mail/obj/Debug/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Mahmoud and Longest Uncommon Subsequence/A. Mahmoud and Longest Uncommon Subsequence.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Mahmoud and Longest Uncommon Subsequence/A. Mahmoud and Longest Uncommon Subsequence.depend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Mahmoud and Longest Uncommon Subsequence/A. Mahmoud and Longest Uncommon Subsequence.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Mahmoud and Longest Uncommon Subsequence/bin/Debug/A" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Mahmoud and Longest Uncommon Subsequence/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Mahmoud and Longest Uncommon Subsequence/obj/Debug/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Next Round/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Next Round/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Next Round/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Next Round/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Next Round/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Next Round/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Next Round/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Next Round/A. Next Round.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Next Round/out/production/A. Next Round/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Next Round/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Oath of the Night's Watch/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Oath of the Night's Watch/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Oath of the Night's Watch/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Oath of the Night's Watch/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Oath of the Night's Watch/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Oath of the Night's Watch/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Oath of the Night's Watch/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Oath of the Night's Watch/A. Oath of the Night's Watch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Oath of the Night's Watch/out/production/A. Oath of the Night's Watch/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Oath of the Night's Watch/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Pangram/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Pangram/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Pangram/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Pangram/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Pangram/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Pangram/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Pangram/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Pangram/A. Pangram.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Pangram/out/production/A. Pangram/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Pangram/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Presents/A. Presents.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Presents/A. Presents.depend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Presents/A. Presents.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Presents/bin/Debug/A" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Presents/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Presents/obj/Debug/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Shaass and Oskols/A. Shaass and Oskols.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Shaass and Oskols/A. Shaass and Oskols.depend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Shaass and Oskols/A. Shaass and Oskols.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Shaass and Oskols/bin/Debug/A" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Shaass and Oskols/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Shaass and Oskols/obj/Debug/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Snacktower/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Snacktower/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Snacktower/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Snacktower/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Snacktower/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Snacktower/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Snacktower/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Snacktower/A. Snacktower.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Snacktower/out/production/A. Snacktower/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Snacktower/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Team Olympiad/A. Team Olympiad.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Team Olympiad/A. Team Olympiad.depend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Team Olympiad/A. Team Olympiad.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Team Olympiad/bin/Debug/A" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Team Olympiad/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Team Olympiad/obj/Debug/main.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Twins/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Twins/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Twins/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Twins/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Twins/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Twins/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Twins/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Twins/A. Twins.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Twins/out/production/A. Twins/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Twins/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Way Too Long Words/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Way Too Long Words/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Way Too Long Words/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Way Too Long Words/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Way Too Long Words/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Way Too Long Words/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Way Too Long Words/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Way Too Long Words/A. Way Too Long Words.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Way Too Long Words/out/production/A. Way Too Long Words/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Way Too Long Words/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Young Physicist/A. Young Physicist.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Young Physicist/A. Young Physicist.depend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Young Physicist/A. Young Physicist.layout" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Young Physicist/bin/Debug/A" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Young Physicist/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A. Young Physicist/obj/Debug/main.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A. Buy a Shovel/A. Buy a Shovel.depend" beforeDir="false" afterPath="$PROJECT_DIR$/../A. Buy a Shovel/A. Buy a Shovel.depend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A. Buy a Shovel/A. Buy a Shovel.layout" beforeDir="false" afterPath="$PROJECT_DIR$/../A. Buy a Shovel/A. Buy a Shovel.layout" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A. Buy a Shovel/bin/Debug/A" beforeDir="false" afterPath="$PROJECT_DIR$/../A. Buy a Shovel/bin/Debug/A" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A. Buy a Shovel/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../A. Buy a Shovel/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A. Buy a Shovel/obj/Debug/main.o" beforeDir="false" afterPath="$PROJECT_DIR$/../A. Buy a Shovel/obj/Debug/main.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A. Gravity Flip/A. Gravity Flip.layout" beforeDir="false" afterPath="$PROJECT_DIR$/../A. Gravity Flip/A. Gravity Flip.layout" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="47" />
+    <option name="width" value="1346" />
+    <option name="height" value="701" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="A. String Task" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f21e872c-063d-411b-82df-0705760372bd" name="Default Changelist" comment="" />
+      <created>1561557317343</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561557317343</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1366" height="743" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
