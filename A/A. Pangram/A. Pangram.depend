@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1598094488 source:e:\abdallah\problem solving\practice\codeforces\a\a. pangram\main.cpp
+	<iostream>
+	<set>
+	<string>
+
