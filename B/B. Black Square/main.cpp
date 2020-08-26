@@ -11,7 +11,7 @@ int main()
     int c = 0;
 
     int minX = 105, maxX = 0;
-    int minY = 105, maxY = 105;
+    int minY = 105, maxY = 0;
 
     for (int i = 0; i < n; i++) {
         string s; cin >> s;
@@ -36,9 +36,28 @@ int main()
     else if (c == 1) cout << 0;
     else {
 
-        int len = max(maxY - minY, maxX - minX);
+        int len = max(maxY - minY + 1, maxX - minX + 1);
 
+        // printf("%d %d %d %d\n", minX, maxX, minY, maxY);
 
+        if (len > n || len > m) cout << -1;
+        else {
+
+            int cnt = 0;
+
+            for (int i = minY; i <= maxY; i++) {
+                for (int j = minX; j <= maxX; j++) {
+
+                    char ch = arr[i][j];
+
+                    if (ch == 'B') cnt++;
+
+                }
+            }
+
+            cout << len * len - cnt;
+
+        }
 
     }
 
