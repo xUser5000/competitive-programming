@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1598457046 source:e:\abdallah\problem solving\practice\codeforces\b\b. summer sell-off\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
