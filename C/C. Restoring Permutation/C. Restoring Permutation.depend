@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1598646354 source:e:\abdallah\problem solving\practice\codeforces\c\c. restoring permutation\main.cpp
+	<iostream>
+	<vector>
+	<set>
+
