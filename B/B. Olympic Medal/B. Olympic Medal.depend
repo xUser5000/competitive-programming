@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1599105330 source:e:\abdallah\problem solving\practice\codeforces\b\b. olympic medal\main.cpp
+	<iostream>
+	<cmath>
+	<limits.h>
+

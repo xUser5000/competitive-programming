@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1599040612 source:e:\abdallah\problem solving\practice\codeforces\b\b. students and shoelaces\main.cpp
+	<iostream>
+	<vector>
+	<set>
+

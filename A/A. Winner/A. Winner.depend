@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1599165183 source:e:\abdallah\problem solving\practice\codeforces\a\a. winner\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<limits.h>
+
