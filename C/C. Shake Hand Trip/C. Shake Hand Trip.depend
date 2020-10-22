@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603303305 source:/home/xuser500/Competitive programming/Practice/Codeforces/C/C. Shake Hand Trip/main.cpp
+	<iostream>
+	<unordered_map>
+
