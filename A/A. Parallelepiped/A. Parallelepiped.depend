@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606163561 source:/home/xuser500/Competitive programming/Practice/Codeforces/A/A. Parallelepiped/main.cpp
+	<iostream>
+	<math.h>
+
