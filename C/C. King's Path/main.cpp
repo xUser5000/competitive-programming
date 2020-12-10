@@ -15,7 +15,7 @@ bool valid (int x, int y) {
 }
 
 int dx [] = { -1, -1, -1, 0, +1, +1, +1, 0 };
-int dy [] = { -1, 0, +1, +1, +1, 0, -1, -1};
+int dy [] = { -1, 0, +1, +1, +1, 0, -1, -1 };
 int bfs (pair<int,int> p0, pair<int,int> p1) {
     queue< pair<int,int> > q;
     q.push(p0);

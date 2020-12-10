@@ -19,25 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="924eedd0-b321-4ebc-89f3-92b6f2c65140" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A. Football.iml" beforeDir="false" afterPath="$PROJECT_DIR$/A. Football.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../B. Game of Robots/B. Game of Robots.cbp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../B. Game of Robots/B. Game of Robots.depend" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../B. Game of Robots/B. Game of Robots.layout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../B. Game of Robots/bin/Debug/B" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../B. Game of Robots/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../B. Game of Robots/obj/Debug/main.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Testing/Testing.cbp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Testing/Testing.layout" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../C/Testing/main.cpp" beforeDir="false" />
-    </list>
+    <list default="true" id="924eedd0-b321-4ebc-89f3-92b6f2c65140" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,23 +86,6 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="1860" height="257" key="GridCell.Tab.0.bottom" timestamp="1606684852751">
-      <screen x="0" y="34" width="1920" height="1046" />
-    </state>
-    <state width="1860" height="257" key="GridCell.Tab.0.bottom/0.34.1920.1046@0.34.1920.1046" timestamp="1606684852751" />
-    <state width="1860" height="257" key="GridCell.Tab.0.center" timestamp="1606684852751">
-      <screen x="0" y="34" width="1920" height="1046" />
-    </state>
-    <state width="1860" height="257" key="GridCell.Tab.0.center/0.34.1920.1046@0.34.1920.1046" timestamp="1606684852751" />
-    <state width="1860" height="257" key="GridCell.Tab.0.left" timestamp="1606684852750">
-      <screen x="0" y="34" width="1920" height="1046" />
-    </state>
-    <state width="1860" height="257" key="GridCell.Tab.0.left/0.34.1920.1046@0.34.1920.1046" timestamp="1606684852750" />
-    <state width="1860" height="257" key="GridCell.Tab.0.right" timestamp="1606684852751">
-      <screen x="0" y="34" width="1920" height="1046" />
-    </state>
-    <state width="1860" height="257" key="GridCell.Tab.0.right/0.34.1920.1046@0.34.1920.1046" timestamp="1606684852751" />
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
