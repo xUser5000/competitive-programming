@@ -1,4 +1,5 @@
 # depslib dependency file v1.0
-1608158597 source:/home/xuser500/Competitive programming/Practice/Codeforces/C/C. Hard Process/main.cpp
+1608161316 source:/home/xuser500/Competitive programming/Practice/Codeforces/C/C. Hard Process/main.cpp
 	<iostream>
+	<algorithm>
 
