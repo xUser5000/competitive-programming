@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1608670640 source:/home/xuser500/Competitive programming/Practice/Codeforces/C/C. Sagheer and Nubian Market/main.cpp
+	<iostream>
+	<algorithm>
+	<limits.h>
+	<vector>
+
