@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611047629 source:/home/xuser500/Competitive programming/Practice/Codeforces/B/B. Soldier and Badges/main.cpp
+	<iostream>
+	<algorithm>
+	<set>
+
