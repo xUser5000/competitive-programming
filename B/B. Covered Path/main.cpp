@@ -2,33 +2,19 @@
 
 using namespace std;
 
-int l, r, n, d;
-
-int solve (int i, int prev) {
-    if (i == n) {
-        if ( abs(prev - r) > d ) return 0;
-        return r;
-    }
-
-    int ans = 0;
-    int a = max(prev-d, 1);
-    int b = prev+d;
-    cout << a << " " << b << endl;
-    for (int j = a; j <= b; j++) {
-        int res = solve(i+1, j);
-        if (res == 0) continue;
-        ans = max(ans, j + res);
-    }
-
-    return ans;
-}
-
 int main()
 {
 
-    cin >> l >> r >> n >> d;
-
-    cout << l + solve(1, l);
+    int v1, v2; cin >> v1 >> v2;
+    int t, d; cin >> t >> d;
+    int ans = 0;
+    int current = v1;
+    for (int i = 0; i < t; i++) {
+        ans += current;
+        int rem = t-2-i;
+        current = min(current + d, v2 + rem * d);
+    }
+    cout << ans;
 
     return 0;
 }

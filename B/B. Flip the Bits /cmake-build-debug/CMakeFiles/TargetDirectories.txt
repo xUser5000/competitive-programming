@@ -1,0 +1,3 @@
+/home/xuser500/Competitive programming/Practice/Codeforces/B/B. Flip the Bits /cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/xuser500/Competitive programming/Practice/Codeforces/B/B. Flip the Bits /cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/xuser500/Competitive programming/Practice/Codeforces/B/B. Flip the Bits /cmake-build-debug/CMakeFiles/B__Flip_the_Bits_.dir

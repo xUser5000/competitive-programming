@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/B__Flip_the_Bits_.dir/main.cpp.o  -o B__Flip_the_Bits_ 
