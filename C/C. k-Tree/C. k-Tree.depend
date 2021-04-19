@@ -1,5 +1,4 @@
 # depslib dependency file v1.0
-1613140313 source:/home/xuser500/Competitive programming/Practice/Codeforces/C/C. k-Tree/main.cpp
-	<iostream>
-	<cstring>
+1618832525 source:/home/xuser500/Competitive programming/Practice/Codeforces/C/C. k-Tree/main.cpp
+	<bits/stdc++.h>
 

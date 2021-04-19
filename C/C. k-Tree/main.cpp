@@ -1,35 +1,31 @@
-#include <iostream>
-#include <cstring>
+#include <bits/stdc++.h>
 
 using namespace std;
+
 typedef long long ll;
-const ll m = 1e9 + 7;
-const int MAX = 1e5 + 5;
+
+const int MAX = 101;
+const ll no = -1e18;
+const ll M = 1e9 + 7;
 
 int n, k, d;
 
 ll dp[MAX][2];
-ll solve (ll sum, int f) {
-    if (sum >= n) {
-        if (sum == n && f == 1) return 1;
-        return 0;
+ll solve (int rem, int f) {
+    //cout << rem << "\n";
+    if (rem == 0 && f == 1) return 1;
+    if (rem < 0) return no;
+
+    ll &ans = dp[rem][f];
+    if (ans != -1) return ans;
+
+    ans = 0;
+    for (ll i = 1; i <= k; i++) {
+        ll res = (i >= d) ? solve(rem-i, 1) : solve(rem-i, f);
+        if (res != no) ans = (ans + res) % M;
     }
 
-    if (dp[sum][f] != -1) return dp[sum][f];
-
-    ll ans = 0;
-
-    if (f == 1) {
-        for (int i = 1; i <= k; i++) {
-            ans += solve(sum+i, f) % m;
-        }
-    } else {
-        for (int i = 1; i <= k; i++) {
-            ans += solve(sum+i, (i >= d)) % m;
-        }
-    }
-
-    return dp[sum][f] = ans % m;
+    return ans;
 }
 
 int main()
@@ -37,7 +33,7 @@ int main()
 
     cin >> n >> k >> d;
     memset(dp, -1, sizeof dp);
-    cout << solve(0, false);
+    cout << solve(n, 0);
 
     return 0;
 }
